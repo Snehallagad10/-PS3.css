@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website Layout</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Box -->
+    <header class="header">
+        <h1>Revision</h1>
+        <nav>
+            <a href="#">Home</a> | 
+            <a href="#">About</a> | 
+            <a href="#">Services</a> | 
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Content Box -->
+    <div class="content">
+        <h2>Welcome to My Website</h2>
+        <p>This is the main content area. Here, you can add your website's information, articles, or whatever you'd like to showcase to visitors.</p>
+        <p>Enjoy exploring!</p>
+    </div>
+
+    <!-- Footer Box -->
+    <footer class="footer">
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

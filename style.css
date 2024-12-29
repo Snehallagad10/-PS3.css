@@ -1,0 +1,64 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light gray background for the body */
+}
+
+/* Header Styles */
+.header {
+    background-color: #2c9eb3; /* Dark background for the header */
+    color: white; /* White text color */
+    text-align: center; /* Centered text */
+    padding: 20px 0; /* Padding around the text */
+}
+
+.header h1 {
+    margin: 0; /* Remove default margin from the header text */
+}
+
+.header nav a {
+    color: white; /* White text color for the links */
+    text-decoration: none; /* Remove underline */
+    margin: 0 15px; /* Space between the links */
+    font-weight: bold; /* Make the links bold */
+}
+
+.header nav a:hover {
+    color: #3498db; /* Change link color when hovered */
+}
+
+/* Content Box Styles */
+.content {
+    max-width: 1000px;
+    margin: 40px auto; /* Center the content box with top margin */
+    padding: 20px;
+    background-color: #fff; /* White background for the content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Light shadow for the content */
+}
+
+.content h2 {
+    color: #333; /* Dark color for the subheading */
+}
+
+.content p {
+    color: #666; /* Lighter text color for the paragraphs */
+    line-height: 1.6; /* Increase line height for readability */
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #333; /* Dark background for the footer */
+    color: white; /* White text color */
+    text-align: center; /* Centered text */
+    padding: 10px 0; /* Padding for footer */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    margin: 0; /* Remove default margin from footer text */
+}

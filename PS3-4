@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Layout with Content Box</title>
+    
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <!-- Header Box (Optional) -->
+    <header class="header">
+        <h1>Keep Trying</h1>
+    </header>
+
+    <!-- Content Box -->
+    <div class="content">
+        <h2>Welcome to My Website</h2>
+        <p>"Hard times build strong people. Stay resilient and rise!"</p>
+        <p>This is the main content area where you can showcase your information or any other content you'd like to display.</p>
+        <p>With the applied CSS, the content box will have a white background, padding, a blue border, and a subtle shadow effect.</p>
+        
+    </div>
+
+    <!-- Footer Box -->
+    <footer class="footer">
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
